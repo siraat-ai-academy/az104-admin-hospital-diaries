@@ -1,4 +1,3 @@
-# File content (the demo graduation story in markdown format)
 # 🌸✨ The Celebration of Completion – A Demo Graduation Story ✨🌸  
 
 The wards of Azure Admin Hospital were hushed. For many days, the corridors had echoed with questions, commands, diagrams, reflections, and whispered truths. 🌷 Now, a silence like dawn spread through every wall, every glowing monitor.  
