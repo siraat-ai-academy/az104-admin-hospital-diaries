@@ -1,2 +1,1 @@
-# az104-admin-hospital-diaries
-az104-admin-hospital-diaries
+🏥 “A novel-inspired lab diary for AZ-104 — where patients are cloud resources, doctors are admins, and healing is learning.”
