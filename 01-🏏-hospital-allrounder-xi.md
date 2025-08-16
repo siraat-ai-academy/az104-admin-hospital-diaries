@@ -85,6 +85,3 @@ Step into the healing wards:
 [🩺 GitHub: az104-admin-hospital-diaries](https://github.com/siraat-ai-academy/az104-admin-hospital-diaries)  
 [🌐 LinkedIn Profile](https://lnkd.in/dquwuE-5)  
 [💻 GitHub: Siraat AI Academy](https://lnkd.in/dpGSUKnw)  
-
-path.write_text(content, encoding="utf-8")
-path
