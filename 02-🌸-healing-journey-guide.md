@@ -18,7 +18,7 @@ The doctor pauses, closes their eyes, and listens. What *deeper lesson* hides be
 ### 🛠️ 3. Purpose & Healing Tools  
 Every cure requires intention and instruments. Here the healer prepares — selecting tools, medicines, and strategies to guide the patient back to balance.  
 
-### 🔄 4. Flow of Energy (Visual Diagram)  
+### 🔄 4. Flow of Energy (Visual Text-Diagram)  
 Life-force, data, and processes must flow. This sketch maps how energy will move through the body of the system, ensuring clarity and alignment.  
 
 ### 🧾 5. Step-by-Step Healing Guide  
