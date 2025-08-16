@@ -1,5 +1,5 @@
 # Extended story-style content for the second batch of patients (Part II)
-story_content_batch2 = """# 🏥🌷 Azure Admin Hospital Diary  
+# 🏥🌷 Azure Admin Hospital Diary  
 ### (Part II – Storage: The Vaults Beneath the Hospital) 🌸✨🧚‍♀️  
 
 Beneath the shining wards of the hospital lay the **vaults of memory**.  
