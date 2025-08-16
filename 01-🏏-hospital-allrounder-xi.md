@@ -84,4 +84,4 @@ In their hands, Azure’s hospital becomes a living field where every heartbeat 
 Step into the healing wards:  
 [🩺 GitHub: az104-admin-hospital-diaries](https://github.com/siraat-ai-academy/az104-admin-hospital-diaries)  
 [🌐 LinkedIn Profile](https://lnkd.in/dquwuE-5)  
-[💻 GitHub: Siraat AI Academy](https://lnkd.in/dpGSUKnw)  
+[💻 GitHub: Siraat AI Academy](https://github.com/siraat-ai-academy)  
