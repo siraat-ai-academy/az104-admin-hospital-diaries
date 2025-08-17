@@ -1,4 +1,3 @@
-# File content
 # 🏏 Azure Admin Hospital XI – The All-Rounder Team  
 *(Every doctor is an all-rounder, but each shines in one shot)*  
 
