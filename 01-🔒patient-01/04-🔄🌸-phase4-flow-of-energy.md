@@ -1,4 +1,5 @@
 # 🔄 Phase 4 – The Flow of Energy Speaks 🌸✨  
+# 🌸✨ Patient 1 – Creating Azure Resource Locks 🌷🌼🧚‍♀
 
 ---
 
