@@ -1,4 +1,5 @@
-# 🌸✨ Phase 2 – Whispered Reflection: Patient 1 – Creating Azure Resource Locks 🌷🌼🧚‍♀️  
+# 🌸✨ Phase 2 – Whispered Reflection
+# Patient 1 – Creating Azure Resource Locks 🌷🌼🧚‍♀️  
 
 ---
 
