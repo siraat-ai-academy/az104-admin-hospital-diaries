@@ -1,4 +1,3 @@
-# Refined, ultra-soft English version content
 # 🏏 Azure Admin Hospital XI – The All-Rounder Team  
 *(Every doctor is an all-rounder, yet each shines in their own magical stroke)* 🌸✨
 
