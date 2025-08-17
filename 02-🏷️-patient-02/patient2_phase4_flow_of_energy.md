@@ -1,9 +1,8 @@
 # 🔄 The Flow of Energy Speaks 🌸🌼
 
-```
 👩‍💻 User → 🌐 DKSec-Group (Resource Group) → 💻 NordicVault-VM (Virtual Machine)
      → 🗂️ Tag: Department=IT → 🔍 Filtered View (Organized Healing)
-```
+
 
 ---
 
