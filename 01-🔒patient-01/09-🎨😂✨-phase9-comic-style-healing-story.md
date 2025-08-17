@@ -1,4 +1,5 @@
 # 🎨 Phase 9 – Comic-Style Healing Story
+# Patient 1 – Creating Azure Resource Locks 🌷🌼🧚‍♀️  
 
 ## 🌟 Comic Story Setup
 The hospital doors swing open 🌸. Patient 1 steps out with a fresh smile — their Azure journey glowing in their heart.  
