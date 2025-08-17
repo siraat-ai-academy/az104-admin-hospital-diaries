@@ -143,3 +143,8 @@ With the inner voice of Eks2 — the whisper behind the work.
 **Siraat AI Academy**  
 “The Straight Path — Empowering minds with clarity, illuminating paths with purpose.”
 
+Step into the healing wards:  
+[🩺 GitHub: az104-admin-hospital-diaries](https://github.com/siraat-ai-academy/az104-admin-hospital-diaries)  
+[🌐 LinkedIn Profile](https://lnkd.in/dquwuE-5)  
+[💻 GitHub: Siraat AI Academy](https://github.com/siraat-ai-academy)  
+
