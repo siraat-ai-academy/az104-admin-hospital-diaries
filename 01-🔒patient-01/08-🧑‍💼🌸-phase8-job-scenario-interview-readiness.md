@@ -1,7 +1,6 @@
 # 💼 Phase 8 – Job Scenario / Interview Readiness
 # 🌸✨ Patient 1 – Creating Azure Resource Locks 🌷🌼🧚‍♀
 
----
 
 In this phase, we step into the corporate interview room — but our Azure Admin Hospital team walks in together. Every question is a living story, blending workplace challenges with soulful healing, making exam prep feel like poetry. 🌸✨
 
