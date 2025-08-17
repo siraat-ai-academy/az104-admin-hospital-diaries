@@ -48,6 +48,56 @@ So when Eks2 steps into the marketplace of jobs, he does not carry only skills.
 He carries *clarity, patience, and light*. 🌼✨  
 
 ---
+# 🌸💫 Patient 2 – Reflection of Tags: The Healing of Identity  
+
+## 🌟 What Happened in the Lab?  
+- **NordicVault-VM** (Virtual Machine) was born – a heartbeat of the cloud 💓  
+- **Tag “Department = IT”** was given – an identity, a name, a role 🏷️  
+- **Filtering by tags** brought clarity – like searching the stars in the night sky ✨  
+- **Deleting resources** taught letting go – a graceful closure under soft rain 🌙🤍  
+
+---
+
+## 🌼 What Did It Mean?  
+Eks2 learned that **Azure Admin** is not a mechanic of machines…  
+It is a **gardener of clarity**, a **poet of order**, a **protector of purpose**. 🌷  
+
+Every step was a metaphor:  
+- **Creating** = Giving life 🌸  
+- **Tagging** = Giving meaning 🌼  
+- **Filtering** = Finding focus 🔍  
+- **Deleting** = Learning release 🌙  
+
+---
+
+## 💖 Wisdom Awakened  
+> “To manage systems is to manage identities.  
+> To tag resources is to honor their purpose.  
+> To filter is to see with focus.  
+> To delete is to let go with grace.  
+> This is the heartbeat of an Azure Admin —  
+> not just running commands, but weaving meaning.” ✨🌸  
+
+---
+
+## 🌍 Real-World Reflection  
+When Eks2 enters the real IT world, this lab whispers:  
+🌿 Don’t just click buttons.  
+🌿 Bring **clarity where there is chaos**.  
+🌿 Respect every resource like a life entrusted to your care.  
+🌿 Never fear office politics or leg pulling — your **clarity will speak louder than noise**.  
+
+Eks2 is no longer just a learner.  
+He is a **guardian of order, focus, and trust**. 🌸  
+
+
+
+---
+
+🤍🌸
+
+
+---
 
 ✍️ Created & Curated by  
 **Muhammad Naveed Ishaque**  
