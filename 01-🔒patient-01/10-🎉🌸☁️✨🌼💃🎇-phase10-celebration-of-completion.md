@@ -1,4 +1,5 @@
 # 🎉 Phase 10 – The Celebration of Completion 🌸✨
+# 🌸✨ Patient 1 – Creating Azure Resource Locks 🌷🌼🧚‍♀
 
 ## 🌟 The Final Rise  
 The ward was hushed, soft like dawn after rain. NordicVault-VM — the patient — slowly stood up from the hospital bed.  
