@@ -1,4 +1,4 @@
-# 🌸✨ Patient 1 – Creating Azure Resource Locks 🌷🌼🧚‍♀️  
+# 🌸✨ Patient 1 – Creating Azure Resource Locks 🌷🌼🧚‍♀
 
 ---
 
