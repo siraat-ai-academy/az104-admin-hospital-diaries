@@ -1,4 +1,5 @@
 # 📖 Phase 7 – Conceptual Exam Readiness 🌸✨  
+# 🌸✨ Patient 1 – Creating Azure Resource Locks 🌷🌼🧚‍♀
 
 ---
 
