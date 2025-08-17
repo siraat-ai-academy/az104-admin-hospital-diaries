@@ -1,86 +1,118 @@
 # 🌟 Bonus Phase – Danish Vocabulary Landing Gift 🎁🇩🇰
-_A graduation gift from Patient 1: Creating Azure Resource Locks_  
 
-When the patient healed and the journey of **locks, safety, and trust** was complete,  
-the team gathered to share a gift of **Danish words** — words that sparkle like Azure clouds ☁️,  
-shine like healing light 🌸, and guide like eternal wisdom ✨.  
+The team gathered to share a gift of **Danish words** — words that sparkle like Azure clouds ☁️, 
+shine like healing light 🌸, and guide like eternal wisdom ✨.
 
 Each character chose **5 words**, whispering them as blessings for the learner.  
-Below is the table — each word a flower 🌷, each meaning a soft lantern of clarity.  
+Below is the table — each word a flower 🌷, each meaning a soft lantern of clarity.
 
 ---
+
+## 🧢 I.K. – The Invisible Captain
 
 | 🇩🇰 Danish Word | 🗣️ English Pronunciation | 🔊 Urdu Pronunciation | 🌍 English Meaning | 🇵🇰 Urdu Meaning | 🇮🇳 Roman Hindi |
-|----------------|---------------------------|-----------------------|-------------------|-----------------|----------------|
-
-### 🧢 I.K. – The Invisible Captain  
-| Ro | roh | رو | Calm | سکون | Shaanti |
-| Lys | lüs | لُوس | Light | روشنی | Roshni |
-| Fred | fred | فرید | Peace | امن | Shanti |
-| Sti | stee | ستی | Path | راستہ | Raasta |
-| Hjerte | h-yair-te | ہیرٹے | Heart | دل | Dil |  
-
-### 🇩🇰 Mr. Eks2 – The Patient Learner  
-| Lære | lehr-eh | لیئرے | To Learn | سیکھنا | Seekhna |
-| Fejl | file | فائل | Mistake | غلطی | Galti |
-| Ven | ven | وین | Friend | دوست | Dost |
-| Nøgle | nœ-gle | نو-گلے | Key | چابی | Chabi |
-| Tålmodighed | tol-mo-dee-hed | تلمودہید | Patience | صبر | Sabra |  
-
-### 🇪🇸 Sofia Zaymera – The Calm Anchor  
-| Roen | ro-en | رو-این | Serenity | سکون قلب | Shaantata |
-| Klarhed | klar-hed | کلارہیڈ | Clarity | وضاحت | Spashtata |
-| Omsorg | om-sorg | اوم سورگ | Care | دیکھ بھال | Dekhbhaal |
-| Balance | ba-lans | بالانس | Balance | توازن | Santulan |
-| Stjerne | styair-ne | ستیارنے | Star | ستارہ | Sitara |  
-
-### 🇩🇰 Kasper Madsen – The Joyful Striker  
-| Glæde | gleh-the | گلےدے | Joy | خوشی | Khushi |
-| Spil | speel | سپل | Game | کھیل | Khel |
-| Energi | en-er-gi | اینرجی | Energy | توانائی | Urja |
-| Sky | sku | سکُو | Cloud | بادل | Badal |
-| Venner | ven-ner | وینر | Friends | دوست | Doston |  
-
-### 🇪🇸/🇵🇰 Inky Rihan – The Phantom Spinner  
-| Skygge | sku-geh | سکُوگے | Shadow | سایہ | Saya |
-| Hemmelig | hem-eh-lee | ہیملی | Secret | راز | Raaz |
-| Test | test | ٹیسٹ | Test | جانچ | Pariksha |
-| Fare | fa-reh | فاری | Danger | خطرہ | Khatra |
-| Snur | snur | سنُر | Spin | گھومنا | Ghoomna |  
-
-### 🇷🇺 Elina Petrova – The Scripted Master  
-| Script | skript | سکرپٹ | Script | تحریر | Lipi |
-| Orden | or-den | اورڈن | Order | ترتیب | Kram |
-| System | sis-tem | سسٹم | System | نظام | Pranali |
-| Automatisk | auto-mat-isk | آٹومیٹیسک | Automatic | خودکار | Swayamchalit |
-| Kode | koh-de | کوڈے | Code | کوڈ | Code |  
-
-### 🇮🇹 Isabella Konti – The Empathic Shield  
-| Kærlighed | care-li-hed | کیرلیہد | Love | محبت | Prem |
-| Følelser | fu-lel-ser | فولیل سر | Feelings | جذبات | Bhavna |
-| Håb | hope | ہوپ | Hope | امید | Aasha |
-| Støtte | stu-teh | سٹوٹے | Support | سہارا | Sahara |
-| Tryghed | tru-ged | ٹرگیہد | Safety | حفاظت | Suraksha |  
-
-### 🇨🇳 Maya Lin – The Fearless Rookie  
-| Mod | moh-d | مود | Courage | حوصلہ | Himmat |
-| Start | staart | سٹارٹ | Start | آغاز | Shuruaat |
-| Fejltrin | file-trin | فائلٹرن | Misstep | لغزش | Galat Kadam |
-| Lyst | luust | لُوست | Desire | خواہش | Ichchha |
-| Sejr | sigh-er | سیئر | Victory | جیت | Jeet |  
-
-### 🕶️ ShadowNet – The Eternal Opponent  
-| Kaos | ka-os | کاوس | Chaos | انتشار | Aafra-tafri |
-| Frygt | frukt | فروگت | Fear | خوف | Dar |
-| Tab | taab | تاب | Loss | نقصان | Nuksan |
-| Mørke | mur-keh | مُرکے | Darkness | اندھیرا | Andhera |
-| Evig | ee-vi | ایویگ | Eternal | ابدی | Anant |  
+|-----------------|--------------------------|-----------------------|-------------------|-----------------|-----------------|
+| Ro              | roh                      | رو                    | Calm              | سکون            | Shaanti         |
+| Lys             | lüs                      | لُوس                  | Light             | روشنی           | Roshni          |
+| Fred            | fred                     | فرید                  | Peace             | امن             | Shanti          |
+| Sti             | stee                     | ستی                   | Path              | راستہ           | Raasta          |
+| Hjerte          | h-yair-te                | پِیرٹے                | Heart             | دل              | Dil             |
 
 ---
 
-🌸 Every Danish word is not just a word — it is a lamp of wisdom 🌼,  
-a seed of healing 🌿, and a whisper of Azure light ✨.  
-Carry these words in your heart, and let them guide you through every system, every cloud ☁️.  
+## 🇩🇰 Mr. Eks2 – The Patient Learner
+
+| 🇩🇰 Danish Word | 🗣️ English Pronunciation | 🔊 Urdu Pronunciation | 🌍 English Meaning | 🇵🇰 Urdu Meaning | 🇮🇳 Roman Hindi |
+|-----------------|--------------------------|-----------------------|-------------------|-----------------|-----------------|
+| Lære            | lehr-eh                  | لیئرے                 | To Learn          | سیکھنا          | Seekhna         |
+| Fejl            | file                     | فائل                  | Mistake           | غلطی            | Galti           |
+| Ven             | ven                      | وین                   | Friend            | دوست            | Dost            |
+| Nøgle           | nøe-gle                  | نوگلے                 | Key               | چابی            | Chabi           |
+| Tålmodighed     | tol-mo-dee-hed           | تلمودیہد              | Patience          | صبر             | Sabra           |
+
+---
+
+## 🇪🇸 Sofia Zaymera – The Calm Anchor
+
+| 🇩🇰 Danish Word | 🗣️ English Pronunciation | 🔊 Urdu Pronunciation | 🌍 English Meaning | 🇵🇰 Urdu Meaning | 🇮🇳 Roman Hindi |
+|-----------------|--------------------------|-----------------------|-------------------|-----------------|-----------------|
+| Stilhed         | steel-hed                | سٹیل ہیڈ              | Silence           | خاموشی          | Shaanti         |
+| Roen            | ro-en                    | رو این                | Serenity          | سکون            | Shaanti         |
+| Styrke          | steer-ke                 | سٹیر کے               | Strength          | طاقت            | Shakti          |
+| Sandhed         | sand-hed                 | سینڈ ہیڈ              | Truth             | سچ              | Satya           |
+| Liv             | leev                     | لیو                   | Life              | زندگی           | Jeevan          |
+
+---
+
+## 🇩🇰 Kasper Madsen – The Joyful Striker
+
+| 🇩🇰 Danish Word | 🗣️ English Pronunciation | 🔊 Urdu Pronunciation | 🌍 English Meaning | 🇵🇰 Urdu Meaning | 🇮🇳 Roman Hindi |
+|-----------------|--------------------------|-----------------------|-------------------|-----------------|-----------------|
+| Glæde           | gley-the                 | گلیذے                 | Joy               | خوشی            | Khushi          |
+| Leg             | lay                      | لے                    | Play              | کھیل            | Khel            |
+| Sejr            | sire                     | سائر                  | Victory           | جیت             | Jeet            |
+| Energi          | en-er-gee                | اینرجی                | Energy            | توانائی         | Urja            |
+| Smil            | smeel                    | سمائل                 | Smile             | مسکراہٹ         | Muskaan         |
+
+---
+
+## 🇪🇸/🇵🇰 Inky Rihan – The Phantom Spinner
+
+| 🇩🇰 Danish Word | 🗣️ English Pronunciation | 🔊 Urdu Pronunciation | 🌍 English Meaning | 🇵🇰 Urdu Meaning | 🇮🇳 Roman Hindi |
+|-----------------|--------------------------|-----------------------|-------------------|-----------------|-----------------|
+| Skygge          | skyu-geh                 | سکیوگے                | Shadow            | سایہ            | Saya            |
+| Spøgelse        | spoe-gel-se              | سپوگل سے              | Ghost             | بھوت            | Bhoot           |
+| Hemmelighed     | hem-lee-hed              | ہیملی ہیڈ             | Secret            | راز             | Raaz            |
+| Fart            | fart                     | فارٹ                  | Speed             | رفتار           | Raftar          |
+| Balance         | ba-lans                  | بیلنس                 | Balance           | توازن           | Santulan        |
+
+---
+
+## 🇷🇺 Elina Petrova – The Scripted Master
+
+| 🇩🇰 Danish Word | 🗣️ English Pronunciation | 🔊 Urdu Pronunciation | 🌍 English Meaning | 🇵🇰 Urdu Meaning | 🇮🇳 Roman Hindi |
+|-----------------|--------------------------|-----------------------|-------------------|-----------------|-----------------|
+| Kode            | koh-de                   | کوڈے                  | Code              | کوڈ             | Code            |
+| Skript          | skreept                  | سکرپٹ                 | Script            | تحریر           | Lekh            |
+| Automatisering  | auto-mah-tis-er-ing      | آٹوماٹیسیرنگ          | Automation        | خودکار          | SwayamChalit    |
+| System          | sys-tem                  | سسٹم                  | System            | نظام            | Pranali         |
+| Sikkerhed       | sik-er-hed               | سکر ہیڈ               | Security          | حفاظت           | Suraksha        |
+
+---
+
+## 🇮🇹 Isabella Konti – The Empathic Shield
+
+| 🇩🇰 Danish Word | 🗣️ English Pronunciation | 🔊 Urdu Pronunciation | 🌍 English Meaning | 🇵🇰 Urdu Meaning | 🇮🇳 Roman Hindi |
+|-----------------|--------------------------|-----------------------|-------------------|-----------------|-----------------|
+| Skjold          | sk-yold                  | سک یولڈ               | Shield            | ڈھال            | Dhaal           |
+| Kærlighed       | care-lee-hed             | کیرلی ہیڈ             | Love              | محبت           | Prem            |
+| Omsorg          | om-sorg                  | اوم سوگ               | Care              | پرواہ           | Dekhbhal        |
+| Trøst           | troest                   | ٹروسٹ                 | Comfort           | تسلی            | Tasalli         |
+| Venlighed       | ven-lee-hed              | وینلی ہیڈ             | Kindness          | مہربانی         | Dayalu          |
+
+---
+
+## 🇨🇳 Maya Lin – The Fearless Rookie
+
+| 🇩🇰 Danish Word | 🗣️ English Pronunciation | 🔊 Urdu Pronunciation | 🌍 English Meaning | 🇵🇰 Urdu Meaning | 🇮🇳 Roman Hindi |
+|-----------------|--------------------------|-----------------------|-------------------|-----------------|-----------------|
+| Mod             | mohd                     | موڈ                   | Courage           | حوصلہ           | Sahas           |
+| Frygtløs        | frygt-loes               | فرائگت لوس            | Fearless          | نڈر             | Nidar           |
+| Start           | staart                   | سٹارٹ                 | Start             | آغاز            | Shuruat         |
+| Ungdom          | ung-dom                  | انگ ڈوم               | Youth             | جوانی           | Yuva            |
+| Læring          | lae-ring                 | لیئرنگ                | Learning          | سیکھنا          | Seekhna         |
+
+---
+
+## 🕶️ ShadowNet – The Eternal Opponent
+
+| 🇩🇰 Danish Word | 🗣️ English Pronunciation | 🔊 Urdu Pronunciation | 🌍 English Meaning | 🇵🇰 Urdu Meaning | 🇮🇳 Roman Hindi |
+|-----------------|--------------------------|-----------------------|-------------------|-----------------|-----------------|
+| Mørke           | mur-ke                   | مرکے                  | Darkness          | اندھیرا          | Andhera         |
+| Fejltrin        | file-trin                | فائل ٹرن              | Misstep           | لغزش            | Galti Kadam     |
+| Fælde           | fel-de                   | فیلیڈے                | Trap              | جال             | Jaal            |
+| Tab             | taab                     | تاب                   | Loss              | نقصان           | Nuksaan         |
+| Udfordring      | ud-for-dring             | اڈفورڈ رنگ            | Challenge         | چیلنج           | Chunauti        |
 
 ---
 
